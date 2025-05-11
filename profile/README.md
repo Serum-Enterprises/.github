@@ -1,6 +1,6 @@
-# Serum Enterprises L.L.C-FZ
+# Serum Enterprises
 
-Welcome to the official GitHub space of **Serum Enterprises L.L.C-FZ**.
+Welcome to the official GitHub space of **Serum Enterprises**.
 We’re engineers, builders, and tinkerers at heart — working on hard problems in software, data, blockchain, and AI.
 
 ## What’s in here?
